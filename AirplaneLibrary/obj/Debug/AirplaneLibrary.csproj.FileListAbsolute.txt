@@ -1,0 +1,24 @@
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\1_5_2\upgrade\comp_tmp\CSharp_Net_module1_5_2_lab\AirplaneLibrary\bin\Debug\AirplaneLibrary.dll
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\1_5_2\upgrade\comp_tmp\CSharp_Net_module1_5_2_lab\AirplaneLibrary\bin\Debug\AirplaneLibrary.pdb
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\1_5_2\upgrade\comp_tmp\CSharp_Net_module1_5_2_lab\AirplaneLibrary\obj\Debug\AirplaneLibrary.dll
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\1_5_2\upgrade\comp_tmp\CSharp_Net_module1_5_2_lab\AirplaneLibrary\obj\Debug\AirplaneLibrary.pdb
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\1_5_2\upgrade\end\CSharp_Net_module1_5_2_lab\AirplaneLibrary\bin\Debug\AirplaneLibrary.dll
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\1_5_2\upgrade\end\CSharp_Net_module1_5_2_lab\AirplaneLibrary\bin\Debug\AirplaneLibrary.pdb
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\1_5_2\upgrade\end\CSharp_Net_module1_5_2_lab\AirplaneLibrary\obj\Debug\AirplaneLibrary.dll
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\1_5_2\upgrade\end\CSharp_Net_module1_5_2_lab\AirplaneLibrary\obj\Debug\AirplaneLibrary.pdb
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\Group_09032016\080416_14\Lab_1_5_2\upgrade\end\CSharp_Net_module1_5_2_lab\CSharp_Net_module1_5_2_lab\AirplaneLibrary\bin\Debug\AirplaneLibrary.dll
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\Group_09032016\080416_14\Lab_1_5_2\upgrade\end\CSharp_Net_module1_5_2_lab\CSharp_Net_module1_5_2_lab\AirplaneLibrary\bin\Debug\AirplaneLibrary.pdb
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\Group_09032016\080416_14\Lab_1_5_2\upgrade\end\CSharp_Net_module1_5_2_lab\CSharp_Net_module1_5_2_lab\AirplaneLibrary\obj\Debug\AirplaneLibrary.csprojResolveAssemblyReference.cache
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\Group_09032016\080416_14\Lab_1_5_2\upgrade\end\CSharp_Net_module1_5_2_lab\CSharp_Net_module1_5_2_lab\AirplaneLibrary\obj\Debug\AirplaneLibrary.dll
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\Group_09032016\080416_14\Lab_1_5_2\upgrade\end\CSharp_Net_module1_5_2_lab\CSharp_Net_module1_5_2_lab\AirplaneLibrary\obj\Debug\AirplaneLibrary.pdb
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\Group_09032016\080416_14\Lab_1_5_2\upgrade\begin\CSharp_Net_module1_5_2_lab\AirplaneLibrary\bin\Debug\AirplaneLibrary.dll
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\Group_09032016\080416_14\Lab_1_5_2\upgrade\begin\CSharp_Net_module1_5_2_lab\AirplaneLibrary\bin\Debug\AirplaneLibrary.pdb
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\Group_09032016\080416_14\Lab_1_5_2\upgrade\begin\CSharp_Net_module1_5_2_lab\AirplaneLibrary\obj\Debug\AirplaneLibrary.csprojResolveAssemblyReference.cache
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\Group_09032016\080416_14\Lab_1_5_2\upgrade\begin\CSharp_Net_module1_5_2_lab\AirplaneLibrary\obj\Debug\AirplaneLibrary.dll
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\Group_09032016\080416_14\Lab_1_5_2\upgrade\begin\CSharp_Net_module1_5_2_lab\AirplaneLibrary\obj\Debug\AirplaneLibrary.pdb
+D:\MainAcademy\C# .NET\LabWorks_2\Module_1\LabWork#1.2\(begin)CSharp_Net_module1_2_lab\CSharp_Net_module1_5_2_lab\AirplaneLibrary\bin\Debug\AirplaneLibrary.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_1\LabWork#1.2\(begin)CSharp_Net_module1_2_lab\CSharp_Net_module1_5_2_lab\AirplaneLibrary\bin\Debug\AirplaneLibrary.pdb
+D:\MainAcademy\C# .NET\LabWorks_2\Module_1\LabWork#1.2\(begin)CSharp_Net_module1_2_lab\CSharp_Net_module1_5_2_lab\AirplaneLibrary\obj\Debug\AirplaneLibrary.csproj.AssemblyReference.cache
+D:\MainAcademy\C# .NET\LabWorks_2\Module_1\LabWork#1.2\(begin)CSharp_Net_module1_2_lab\CSharp_Net_module1_5_2_lab\AirplaneLibrary\obj\Debug\AirplaneLibrary.csproj.CoreCompileInputs.cache
+D:\MainAcademy\C# .NET\LabWorks_2\Module_1\LabWork#1.2\(begin)CSharp_Net_module1_2_lab\CSharp_Net_module1_5_2_lab\AirplaneLibrary\obj\Debug\AirplaneLibrary.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_1\LabWork#1.2\(begin)CSharp_Net_module1_2_lab\CSharp_Net_module1_5_2_lab\AirplaneLibrary\obj\Debug\AirplaneLibrary.pdb
