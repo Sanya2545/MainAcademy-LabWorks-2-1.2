@@ -4,11 +4,12 @@ using AirplaneLibrary;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.IO;
 using System.Threading.Tasks;
 
 namespace CSharp_Net_module1_5_2_lab
 {
-    [AirplaneType]
+    [AirplaneType(AirplaneTypes.SportPlane)]
     public class CheckSaveTrace : IDisposable
     {
         private bool _disposed = false;
@@ -45,27 +46,25 @@ namespace CSharp_Net_module1_5_2_lab
         }
         public void SaveTrace(object obj)
         {
-            var atributeTraceArray = typeof(object).GetCustomAttributes(true);
-            var checkSaveTraceArray = typeof(CheckSaveTrace).GetCustomAttributes(true);
-            for (int i = 0; i < atributeTraceArray.Length; ++i)
+            Type type = obj.GetType();
+            var atributeTraceArray = type.GetCustomAttributes(true);
+            var trace = atributeTraceArray.Select(x => x.ToString());
+            foreach (var item in atributeTraceArray)
             {
-                if (atributeTraceArray[i] is CheckSaveTrace chsvtrace)
-                {
-                    checkSaveTraceArray[i] = chsvtrace.Log;
-                }
+                Console.WriteLine(item.ToString());
             }
+            File.WriteAllLines("Traces.txt", trace);
         }
         public void EventLogging(object obj)
         {
-            var atributeLogArray = typeof(object).GetCustomAttributes(true);
-            var checkSaveTraceArray = typeof(CheckSaveTrace).GetCustomAttributes(true);
-            for (int i = 0; i < atributeLogArray.Length; ++i)
+            Type type = obj.GetType();
+            var atributeLogArray = type.GetCustomAttributes(true);
+            var log = atributeLogArray.Select(x => x.ToString());
+            foreach (var item in atributeLogArray)
             {
-                if (atributeLogArray[i] is CheckSaveTrace chsvtrace)
-                {
-                    checkSaveTraceArray[i] = chsvtrace.Log;
-                }
+                Console.WriteLine(item.ToString());
             }
+            File.WriteAllLines("Logs.txt", log);
         }
         public void Dispose(bool disposing)
         {

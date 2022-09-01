@@ -42,6 +42,7 @@
   <ItemGroup>
     <Compile Include="AirplaneTypeAttribute.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UniversalPlane.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

@@ -31,5 +31,9 @@ namespace AirplaneLibrary
         //add two AirplaneTypeAttribute-s to UniversalAirplane
         //add AirplaneTypeAttribute to CargoAirplane
 
+        public override string ToString()
+        {
+            return $"Airplane Type : {AirplaneType}";
+        }
     }
 }

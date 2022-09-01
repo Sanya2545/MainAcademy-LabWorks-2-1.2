@@ -14,16 +14,17 @@ namespace CSharp_Net_module1_5_2_lab
             //implement  CheckSaveTrace in using block
             using (CheckSaveTrace trace = new CheckSaveTrace())
             {
-                const AirplaneTypes airplane = AirplaneTypes.CargoPlane;
-                AirplaneTypes universalAirplane = AirplaneTypes.Jet;
-                trace.CheckClassAttribute(airplane);
-                trace.SaveTrace(airplane);
-                trace.EventLogging(airplane);
-                trace.CheckClassAttribute(universalAirplane);
-                trace.SaveTrace(universalAirplane);
-                trace.EventLogging(universalAirplane);
+                UniversalPlane universalPlane = new UniversalPlane(AirplaneTypes.CargoPlane);
+                trace.CheckClassAttribute(universalPlane);
+                trace.SaveTrace(universalPlane);
+                trace.EventLogging(universalPlane);
+                var attrs = trace.GetType().GetCustomAttributes(typeof(AirplaneTypeAttribute),true);
+                foreach(var item in attrs)
+                {
+
+                    Console.WriteLine(item.ToString());
+                }
             }
-                
                 Console.ReadKey();
         }
     }
